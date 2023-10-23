@@ -10,9 +10,13 @@ To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Py
 
 <b> Input and Output </b> 
 Input: This algorithm will take three words.
+
 B A S E
+
 B A L L
-_________
+
+~----------~
+
 G A M E S
 
 Output: It will show which letter holds which number from 0 – 9. For this case it is like this.
